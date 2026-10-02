@@ -1,8 +1,5 @@
 # 플레이 하며 배우는 Kiro IDE
 
-> 원본: [AWS Workshop Studio – Kiro Learn by Playing (한국어)](https://catalog.us-east-1.prod.workshops.aws/workshops/fa7d6664-d74e-4362-9042-bd9f4579d685/ko-KR)
-
-이 워크샵에서는 샘플 비디오 게임인 **Spirit of Kiro**의 [코드베이스](https://github.com/kirodotdev/kiro-demo-game)를 통해 실습하며 Kiro AI 개발 도구 사용법을 익히게 됩니다.
 
 **Spirit of Kiro**의 코드 중 약 95%는 Kiro를 통해 프롬프트로 작성되었습니다. 여러분은 이 게임을 완성하기 위해 **버그를 수정하고 기능을 추가**하면서 Kiro를 사용할 것입니다.
 
